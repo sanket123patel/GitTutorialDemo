@@ -1,1 +1,2 @@
- console.log("sanket patel");
+ document.getElementById("main").innerHTML = Date();
+console.log("sanket patel");
